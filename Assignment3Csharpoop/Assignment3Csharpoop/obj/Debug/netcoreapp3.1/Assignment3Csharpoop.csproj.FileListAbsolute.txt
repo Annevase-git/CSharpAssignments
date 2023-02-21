@@ -1,0 +1,14 @@
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.exe
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.deps.json
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.runtimeconfig.json
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.runtimeconfig.dev.json
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.dll
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\bin\Debug\netcoreapp3.1\Assignment3Csharpoop.pdb
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.csproj.AssemblyReference.cache
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.AssemblyInfoInputs.cache
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.AssemblyInfo.cs
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.csproj.CoreCompileInputs.cache
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.dll
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.pdb
+C:\Users\ANNEVASE\source\repos\Assignment3Csharpoop\Assignment3Csharpoop\obj\Debug\netcoreapp3.1\Assignment3Csharpoop.genruntimeconfig.cache

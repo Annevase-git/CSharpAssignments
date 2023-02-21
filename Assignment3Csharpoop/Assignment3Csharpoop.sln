@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3Csharpoop", "Assignment3Csharpoop\Assignment3Csharpoop.csproj", "{4725119C-85BE-4B40-950C-2AD1F8AA013C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4725119C-85BE-4B40-950C-2AD1F8AA013C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4725119C-85BE-4B40-950C-2AD1F8AA013C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4725119C-85BE-4B40-950C-2AD1F8AA013C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4725119C-85BE-4B40-950C-2AD1F8AA013C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E0B928-F778-40E1-9F85-5EA2E4048667}
+	EndGlobalSection
+EndGlobal

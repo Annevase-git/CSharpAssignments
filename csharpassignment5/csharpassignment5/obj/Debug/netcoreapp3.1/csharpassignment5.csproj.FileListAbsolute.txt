@@ -1,0 +1,14 @@
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.exe
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.deps.json
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.runtimeconfig.json
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.runtimeconfig.dev.json
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.dll
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\bin\Debug\netcoreapp3.1\csharpassignment5.pdb
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.csproj.AssemblyReference.cache
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.AssemblyInfoInputs.cache
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.AssemblyInfo.cs
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.csproj.CoreCompileInputs.cache
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.dll
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.pdb
+C:\Users\ANNEVASE\source\repos\csharpassignment5\csharpassignment5\obj\Debug\netcoreapp3.1\csharpassignment5.genruntimeconfig.cache

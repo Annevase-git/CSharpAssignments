@@ -1,0 +1,6 @@
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.AssemblyReference.cache
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfoInputs.cache
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfo.cs
+C:\Users\ANNEVASE\source\repos\csharpassignment3.2\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.CoreCompileInputs.cache
